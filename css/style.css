@@ -754,7 +754,7 @@ padding: 183px e;
 
 
 /* Products home page section css start  */
-.products html {
+.products {
   position: relative;
   overflow-x: hidden !important;
 }
@@ -958,8 +958,10 @@ padding: 183px e;
   width: 100%;
 }
 
-
-
+/* 
+a .news__item:hover {
+  background-color: red;
+} */
 /* product homepage section ends */
 
 
@@ -1368,7 +1370,7 @@ padding: 183px e;
   }
 }
 
-@media screen and (min-width: 800px) {
+/* @media screen and (min-width: 800px) { */
   .news__item:hover {
     color: #222222;
     transition-delay: 0.1s;
@@ -1380,7 +1382,7 @@ padding: 183px e;
   .news__item:hover .news__img {
     box-shadow: none;
   }
-}
+/* } */
 
 
 
