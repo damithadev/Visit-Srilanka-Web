@@ -442,7 +442,7 @@ padding: 183px e;
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
-  padding-right: 5rem;
+  /* padding-right: 5rem;  */
   padding-bottom: 5rem;
 }
 
@@ -1391,8 +1391,12 @@ a .news__item:hover {
 
 
 
-
-
+@media (max-width: 560px) {
+  .map .image img{
+    width: 100vw;
+    /* padding-right: 1rem; */
+  }
+}
 
 
 
