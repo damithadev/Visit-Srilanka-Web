@@ -256,12 +256,14 @@
 	<div class="contact-box">
 		<div class="left"></div>
 		<div class="right">
-			<h2>Get in touch</h2>
-			<input type="text" class="field" placeholder="Your Name">
-			<input type="text" class="field" placeholder="Your Email">
-			<input type="text" class="field" placeholder="Phone">
-			<textarea placeholder="Message" class="field"></textarea>
-			<button class="send-btn">Send</button>
+		<h2>Get in touch</h2>
+		    <form action="connect.php" method="post">
+			    <input type="text" class="field" placeholder="Your Name" id="name" name="name">
+			    <input type="text" class="field" placeholder="Your Email" id="email" name="email">
+				<input type="text" class="field" placeholder="Phone" id="phone" name="phone">
+				<textarea placeholder="Message" class="field" id="message" name="message"></textarea>
+				<button class="send-btn">Send</button>
+		    </form>
 		</div>
 	</div>
 </div>

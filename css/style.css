@@ -1400,7 +1400,7 @@ a .news__item:hover {
 
 @media (max-width: 560px) {
   .map .image img{
-    width: 100vw;
+    width: 100%;
     /* justify-content: space-around; */
     /* padding-right: 4rem; */
   }
