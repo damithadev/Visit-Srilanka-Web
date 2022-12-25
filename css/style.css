@@ -301,6 +301,9 @@ section {
 
 
 /*adventure homepage section starts*/
+#adventure {
+  background-color: #eee;
+}
 .category .box-container {
   display: -ms-grid;
   display: grid;
@@ -426,7 +429,7 @@ padding: 183px e;
 
 
 .map {
-  background: #eee;
+  background: white;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -436,14 +439,15 @@ padding: 183px e;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   gap: 2rem;
+  
 }
 
 .map .image {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
-  /* padding-right: 5rem;  */
   padding-bottom: 5rem;
+  /* padding-right: 5rem; */
 }
 
 .map .content {
@@ -487,7 +491,9 @@ padding: 183px e;
 
 
 
-
+.blogs {
+  background-color: #eee;
+}
 
 .blogs .slide {
   text-align: center;
@@ -565,7 +571,7 @@ padding: 183px e;
 }
 
 .event {
-  background: #eee;
+  background: white;
   /* height: 100vh; */
   font-family: "Open Sans", sans-serif;
   padding-bottom: 50px;
@@ -757,6 +763,7 @@ padding: 183px e;
 .products {
   position: relative;
   overflow-x: hidden !important;
+  background-color: #eee;
 }
 
 .products body {
@@ -781,7 +788,7 @@ padding: 183px e;
   height: 500px;
   position: absolute;
   top: 30px;
-  background: #eee;
+  background: white;
   border-radius: 10px;
   box-shadow: 0 6px 26px 6px rgba(0, 0, 0, 0.25);
   opacity: 0;
@@ -1394,11 +1401,32 @@ a .news__item:hover {
 @media (max-width: 560px) {
   .map .image img{
     width: 100vw;
-    /* padding-right: 1rem; */
+    /* justify-content: space-around; */
+    /* padding-right: 4rem; */
   }
+  
 }
 
-
+@media (max-width: 792px) {
+  .map .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .map .content h3{
+    text-align: center;
+  }
+  .map .content {
+    text-align: center;
+    margin-top: -20px;
+  }
+  .map .content p{
+    text-align: justify;
+  }
+    
+ 
+}
 
 
 
