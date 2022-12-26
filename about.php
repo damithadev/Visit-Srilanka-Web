@@ -128,7 +128,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="../visitsrilanka/images/binath.jpg" alt="User" class="mb-4 shadow">
+							<img src="/images/binath.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Binath Laknaka</h3>
@@ -151,7 +151,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="../visitsrilanka/images/ishadi.jpg" alt="User" class="mb-4 shadow">
+							<img src="/images/ishadi.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Ishadi Gayathma</h3>
