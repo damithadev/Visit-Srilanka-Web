@@ -34,7 +34,7 @@
         <a href="blogs.html">blogs</a>
         <a href="events.html">Events</a>
         <a href="products.html">Products</a>
-        <a href="about.html">about us</a>
+        <a href="about.php">about us</a>
         
     </nav>
 
