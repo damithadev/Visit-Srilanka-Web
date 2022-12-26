@@ -381,7 +381,7 @@ h3 {
 }
 
 .left{
-	background: url("/images/contact1.jpg") no-repeat center;
+	background: url("../../visitsrilanka/images/contact1.jpg") no-repeat center;
 	background-size: cover;
 	height: 100%;
 }
@@ -541,8 +541,16 @@ textarea{
       display: none;
     }
   }
-  
 
+  @media (max-width: 500px)  {
+    .contact-container {
+        width: 100%;
+        padding: 10px 50px 50px 50px;
+    }
+
+  } 
+  
+  
   
 @media (max-width: 450px) {
     html {

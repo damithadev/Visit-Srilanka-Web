@@ -104,7 +104,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="/images/me.jpg" alt="User" class="mb-4 shadow">
+							<img src="../visitsrilanka/images/me.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Damitha Jayatharaka</h3>
@@ -113,13 +113,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
-								<img src="/images/email.png" alt="Email">
+								<img src="../visitsrilanka/images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/github.png" alt="Github">
+								<img src="../visitsrilanka/images/github.png" alt="Github">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/linkedin.png" alt="Linkedin">
+								<img src="../visitsrilanka/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
@@ -128,7 +128,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="/images/binath.jpg" alt="User" class="mb-4 shadow">
+							<img src="../visitsrilanka/images/binath.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Binath Laknaka</h3>
@@ -137,13 +137,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
-								<img src="/images/email.png" alt="Email">
+								<img src="../visitsrilanka/images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/github.png" alt="Github">
+								<img src="../visitsrilanka/images/github.png" alt="Github">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/linkedin.png" alt="Linkedin">
+								<img src="../visitsrilanka/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
@@ -151,7 +151,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="/images/ishadi.jpg" alt="User" class="mb-4 shadow">
+							<img src="../visitsrilanka/images/ishadi.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Ishadi Gayathma</h3>
@@ -160,13 +160,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
-								<img src="/images/email.png" alt="Email">
+								<img src="../visitsrilanka/images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/github.png" alt="Github">
+								<img src="../visitsrilanka/images/github.png" alt="Github">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/linkedin.png" alt="Linkedin">
+								<img src="../visitsrilanka/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
@@ -174,7 +174,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="/images/kavishka.jpg" alt="User" class="mb-4 shadow">
+							<img src="../visitsrilanka/images/kavishka.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Kavishka Kavindi</h3>
@@ -183,13 +183,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
-								<img src="/images/email.png" alt="Email">
+								<img src="../visitsrilanka/images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/github.png" alt="Github">
+								<img src="../visitsrilanka/images/github.png" alt="Github">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/linkedin.png" alt="Linkedin">
+								<img src="../visitsrilanka/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
@@ -197,7 +197,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="/images/nipuni.jpg" alt="User" class="mb-4 shadow">
+							<img src="../visitsrilanka/images/nipuni.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Nipuni Himasha</h3>
@@ -206,13 +206,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
-								<img src="/images/email.png" alt="Email">
+								<img src="../visitsrilanka/images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/github.png" alt="Github">
+								<img src="../visitsrilanka/images/github.png" alt="Github">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/linkedin.png" alt="Linkedin">
+								<img src="../visitsrilanka/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
@@ -220,7 +220,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="/images/sandali.jpg" alt="User" class="mb-4 shadow">
+							<img src="../visitsrilanka/images/sandali.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Sandali Geenadi</h3>
@@ -229,13 +229,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
-								<img src="/images/email.png" alt="Email">
+								<img src="../visitsrilanka/images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/github.png" alt="Github">
+								<img src="../visitsrilanka/images/github.png" alt="Github">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="/images/linkedin.png" alt="Linkedin">
+								<img src="../visitsrilanka/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
@@ -257,12 +257,14 @@
 		<div class="left"></div>
 		<div class="right">
 		<h2>Get in touch</h2>
-		    <form action="connect.php" method="post">
-			    <input type="text" class="field" placeholder="Your Name" id="name" name="name">
-			    <input type="text" class="field" placeholder="Your Email" id="email" name="email">
-				<input type="text" class="field" placeholder="Phone" id="phone" name="phone">
-				<textarea placeholder="Message" class="field" id="message" name="message"></textarea>
-				<button class="send-btn">Send</button>
+		    <form action="" method="post">
+			    <input type="text" class="field" placeholder="Your Name" id="name" name="name" required>
+			    <input type="text" class="field" placeholder="Your Email" id="email" name="email" required>
+				<input type="text" class="field" placeholder="Phone" id="phone" name="phone" required>
+				<textarea placeholder="Message" class="field" id="message" name="message" required></textarea>
+				<!-- <button class="send-btn">Send</button> -->
+				<input type="submit" class="send-btn" value="send" name="submit">
+				
 		    </form>
 		</div>
 	</div>
@@ -271,6 +273,69 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+<?php 
+
+if(isset($_POST["name"]) && isset($_POST["email"])  && isset($_POST["phone"])  && isset($_POST["message"])) {
+
+  // Connect to the database
+  $servername = "localhost";
+  $username = "u756689048_damitha99";
+  $password = "Imdj2023";
+  $dbname = "u756689048_contactusdb";
+
+  $conn = mysqli_connect($servername, $username, $password, $dbname);
+
+  if (!$conn) {
+      die("Connection failed: " . mysqli_connect_error());
+  }
+
+  // Retrieve form data
+  $name = $_POST['name'];
+  $email = $_POST['email'];
+  $phone = $_POST['phone'];
+  $message = $_POST['message'];
+
+
+  // Validate the email address
+  if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+      // die("Error: Invalid email address");
+      // Display an alert if the email is invalid
+      die("<script>alert('Error: Invalid email address');</script>");
+  }
+
+
+  // Validate the phone number
+  if (!preg_match("/^\d{10}$/", $phone)) {
+    // die("Error: Invalid phone number");
+    // Display an alert if the phone number is invalid
+    die("<script>alert('Error: Invalid phone number');</script>");
+  }
+
+  // Insert data into the database
+  $sql = "INSERT INTO visitors (name, email, phone, message)
+    VALUES ('$name', '$email', '$phone', '$message')";
+
+  if (mysqli_query($conn, $sql)) {
+    echo "<script>alert('Sent Successfully!');</script>";
+    } else {
+    echo "Error: " . $sql . "<br>" . mysqli_error($conn);
+  }
+
+  mysqli_close($conn);
+
+
+}
+?>
 
 
 
