@@ -104,7 +104,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="../visitsrilanka/images/me.jpg" alt="User" class="mb-4 shadow">
+							<img src="/images/me.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Damitha Jayatharaka</h3>
@@ -113,13 +113,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/email.png" alt="Email">
+								<img src="/images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/github.png" alt="Github">
+								<img src="/images/github.png" alt="Github">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/linkedin.png" alt="Linkedin">
+								<img src="/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
@@ -137,13 +137,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/email.png" alt="Email">
+								<img src="/images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/github.png" alt="Github">
+								<img src="/images/github.png" alt="Github">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/linkedin.png" alt="Linkedin">
+								<img src="/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
@@ -160,13 +160,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/email.png" alt="Email">
+								<img src="/images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/github.png" alt="Github">
+								<img src="/images/github.png" alt="Github">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/linkedin.png" alt="Linkedin">
+								<img src="/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
@@ -174,7 +174,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="../visitsrilanka/images/kavishka.jpg" alt="User" class="mb-4 shadow">
+							<img src="/images/kavishka.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Kavishka Kavindi</h3>
@@ -183,13 +183,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/email.png" alt="Email">
+								<img src="/images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/github.png" alt="Github">
+								<img src="/images/github.png" alt="Github">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/linkedin.png" alt="Linkedin">
+								<img src="/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
@@ -197,7 +197,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="../visitsrilanka/images/nipuni.jpg" alt="User" class="mb-4 shadow">
+							<img src="/images/nipuni.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Nipuni Himasha</h3>
@@ -206,13 +206,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/email.png" alt="Email">
+								<img src="/images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/github.png" alt="Github">
+								<img src="/images/github.png" alt="Github">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/linkedin.png" alt="Linkedin">
+								<img src="/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
@@ -220,7 +220,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12 mb-4">
 					<div class="profile-card bg-white shadow mb-4 text-center rounded-lg p-4 position-relative h-100">
 						<div class="profile-card_image pt-4">
-							<img src="../visitsrilanka/images/sandali.jpg" alt="User" class="mb-4 shadow">
+							<img src="/images/sandali.jpg" alt="User" class="mb-4 shadow">
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Sandali Geenadi</h3>
@@ -229,13 +229,13 @@
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/email.png" alt="Email">
+								<img src="/images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/github.png" alt="Github">
+								<img src="/images/github.png" alt="Github">
 							</a>
 							<a href="#!" class="d-inline-block">
-								<img src="../visitsrilanka/images/linkedin.png" alt="Linkedin">
+								<img src="/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
 					</div>
