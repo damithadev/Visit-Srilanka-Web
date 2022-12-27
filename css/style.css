@@ -444,9 +444,13 @@ padding: 183px e;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
   padding-bottom: 5rem;
+ 
   /* padding-right: 5rem; */
 }
 
+.map .image img {
+  border-radius: 10px;
+}
 .map .content {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
@@ -634,6 +638,7 @@ padding: 183px e;
   padding: 1em;
   position: relative;
   z-index: 1;
+  transform: translateY(14px);
 }
 .card .author {
   font-size: 12px;
@@ -744,6 +749,11 @@ padding: 183px e;
   padding-top: 20px;
 
 }
+
+/* .example-2 .wrapper .rd {
+  background: url(/images/perahera.jpg) center/cover no-repeat;
+  z-index: 5;
+} */
 
 /* Event homepage css end */
 
@@ -877,7 +887,7 @@ padding: 183px e;
   width: 13px;
   height: 10px;
   display: inline-block;
-  background: #fff;
+  background: rgb(39, 39, 39);
   opacity: 0.2;
   margin: 0 5px;
   border-radius: 20px;
@@ -886,7 +896,7 @@ padding: 183px e;
 }
 .news-slider__pagination .swiper-pagination-bullet-active {
   opacity: 1;
-  background: #ffffff;
+  background: #1a1919;
   width: 100px;
   transition-delay: 0s;
 }
@@ -1267,6 +1277,7 @@ a .news__item:hover {
   opacity:0;
   pointer-events: none;
   transition: all .4s;
+  z-index: 10;
 }
 
 .to-top.active {

@@ -224,39 +224,164 @@ section {
 .box {
     height: 10000px;
 }
+/* 
+ .map-area .background-img {
+    height: 75vh;
+    width: 100%;
+    background: url(../images/mainmap.jpg) no-repeat;
+    background-color: #eee;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover; 
+} 
+
+  
+.map-area .background-img {
+     position: relative;
+
+}
+
+.map-area .background-img img {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.landmark-icons img {
+     width: 30px;
+    height: 30px;
+}
+
+img, svg {
+    vertical-align: middle;
+    width: 30px;
+    height: 30px;
+} */
 
 
 
 
+.map-area .jaffna {
+    position: absolute;
+    top: 30px;
+   
+    right: 55%;
+    left: 45%;
+  
+}
+
+
+.main .kandy {
+    position: absolute;
+    top: 350px;
+    
+    right: 52%;
+    left: 48%;
+   
+}
 
 
 
+.main .trinco {
+    position: absolute;
+    top: 158px;
+    right: 46%;
+    left: 54%;
+}
+
+.main .galle {
+    position: absolute;
+    top: 570px;
+    right: 68%;
+    left: 32%;
+}
+
+.main .colombo {
+    position: absolute;
+    top: 425px;
+    right: 77%;
+    left: 23%;
+}
+
+.main .katharagama {
+    position: absolute;
+    top: 510px;
+    right: 40%;
+    left: 60%;
+}
+
+.main .nuwaraeliya {
+    position: absolute;
+    top: 400px;
+    right: 48%;
+    left: 52%;
+}
+
+.main .anuradhapura {
+    position: absolute;
+    top: 197px;
+    right: 61%;
+    left: 39%;
+}
+
+
+/* .main {
+    width: 1920px;
+    height: 750px;
+     background: url(../images/mainmap.jpg) no-repeat;
+}
+ */
+
+.main {
+    position: absolute;
+    display:block;
+    top: 80px;
+    /* left: 25vw;
+    right: 25vw; */
+    width: 498px;
+    height: 664px;
+    background: url(../images/map1.jpg);
+    background-position: center center;
+    background-size: cover;
+    border-radius: 15px;
+    
+}
 
 
 
+.align {
+    width: 100vw;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+img, svg {
+    vertical-align: middle;
+    width: 30px;
+    height: 30px;
+}
+
+.align .main .jaffna {
+    position: absolute;
+    top: 30px;
+    right: 70%;
+    left: 30%;
+}
 
 
 
+/* .align .main .jaffna:hover {
+    
+} */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.blur {
+    width: 100vw;
+    height: 750px;
+    background: url(../images/mainmap1.jpg);
+    
+}
 
 
 
