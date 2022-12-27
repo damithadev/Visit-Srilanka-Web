@@ -9,10 +9,11 @@
     <!-- font awesome cdn link  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
  
-    <!-- bootstrap CSS file link -->
-    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous"> -->
+    
+	<!-- bootstrap CSS file link -->
     <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <!-- custom css file link  -->
+    
+	<!-- custom css file link  -->
     <link rel="stylesheet" href="css/allstyle.css">
 
 </head>
@@ -338,6 +339,11 @@ if(isset($_POST["name"]) && isset($_POST["email"])  && isset($_POST["phone"])  &
 ?>
 
 
+<!-- ------scroller to top -->
+
+<a href="#top" class="to-top">
+  <i class="fas fa-chevron-up"></i>
+</a>
 
 <!-- custom js file link  -->
 <script src="js/allscript.js"></script>

@@ -453,6 +453,39 @@ textarea{
 
 
 
+/* ------------------scroller to top css------------------------------------ */
+
+
+.to-top {
+    background: rgb(22, 21, 25);
+    position: fixed;
+    bottom: 16px;
+    right:32px;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size:32px;
+    /* color:#1f1f1f; */
+    color: #fff;
+    text-decoration: none;
+    opacity:0;
+    pointer-events: none;
+    transition: all .4s;
+    cursor: pointer;
+  }
+  
+  .to-top.active {
+    bottom:32px;
+    pointer-events: auto;
+    opacity:1;
+  }
+  
+  
+  
+  
 
 
 
@@ -540,6 +573,14 @@ textarea{
     .swiper-button-prev::after {
       display: none;
     }
+    .to-top {
+        font-size:20px;
+        width:40px;
+        height:40px;
+      }  
+     
+
+
   }
 
   @media (max-width: 500px)  {
