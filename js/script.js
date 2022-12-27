@@ -49,7 +49,7 @@ var swiper = new Swiper(".home-slider", {
     },
 });
 
-
+// -------------------------------------------to top scroller------------------------------------
 const toTop = document.querySelector(".to-top");
 
 window.addEventListener("scroll", () => {
@@ -63,7 +63,7 @@ window.addEventListener("scroll", () => {
 
 
 
-// review slider
+// -----------------------------------------------------------------review slider---------------------------------------
 var swiper = new Swiper(".review-slider", {
     loop:true, 
     grabCursor:true,
@@ -138,7 +138,7 @@ var swiper = new Swiper(".clients-slider", {
 
 
 
-// products homepage js
+// ----------------------------------products homepage js-------------------------------------------
 
 var bg = document.querySelector('.item-bg');
 var items = document.querySelectorAll('.news__item');

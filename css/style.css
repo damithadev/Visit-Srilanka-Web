@@ -425,9 +425,6 @@ padding: 183px e;
 
 
 
-
-
-
 .map {
   background: white;
   display: -webkit-box;
@@ -1253,7 +1250,7 @@ a .news__item:hover {
 /* Scroll to top */
 
 .to-top {
-  background: rgb(113, 9, 9);
+  background: rgb(22, 21, 25);
   position: fixed;
   bottom: 16px;
   right:32px;
@@ -1264,7 +1261,8 @@ a .news__item:hover {
   align-items: center;
   justify-content: center;
   font-size:32px;
-  color:#1f1f1f;
+  /* color:#1f1f1f; */
+  color: #fff;
   text-decoration: none;
   opacity:0;
   pointer-events: none;
@@ -1405,6 +1403,11 @@ a .news__item:hover {
     /* padding-right: 4rem; */
   }
   
+.adventurepage .container img {
+  width: 100vw;
+} 
+
+
 }
 
 @media (max-width: 792px) {
@@ -1424,7 +1427,11 @@ a .news__item:hover {
   .map .content p{
     text-align: justify;
   }
-    
+  .to-top {
+    font-size:20px;
+    width:40px;
+    height:40px;
+  }  
  
 }
 
