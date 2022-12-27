@@ -43,12 +43,14 @@ section {
   border: 0.2rem solid #10221b;
  /* background: #10221b;
   color: #fff;*/ 
-
+  border-radius: 20px;
   color: #10221b;
   cursor: pointer;
   background: none;
   font-size: 1.7rem;
   padding: 1rem 3rem;
+  /* filter: blur(1px); */
+  background: rgba(115, 94, 94, 0.607);
 }
 
 .btn:hover {
