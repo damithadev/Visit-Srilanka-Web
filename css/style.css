@@ -304,7 +304,7 @@ section {
 
 /*adventure homepage section starts*/
 #adventure {
-  background-color: #eee;
+  background-color: #fff;
 }
 .category .box-container {
   display: -ms-grid;
@@ -428,7 +428,7 @@ padding: 183px e;
 
 
 .map {
-  background: white;
+  background: #eee;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1524,16 +1524,25 @@ a .news__item:hover {
 
 @media screen and (max-width: 992px) {
   .card {
-    width: 50%;
+    width: 400px;
+    margin: auto;
   }
+  .card .data .Econtent {
+    transform: translateY(19px);
+    }
 }
 
 
 @media screen and (max-width: 600px) {
   .card {
-    width: 100%;
+    width: 400px;
+    margin: auto;
+  }
+  .card .data .Econtent {
+  transform: translateY(19px);
   }
 }
+
 
 
 /*# sourceMappingURL=style.css.map */
