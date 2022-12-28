@@ -262,7 +262,7 @@ section {
 }
 
 .what-is-nsbm .paragraph p{
-    padding: 20px 50px 0 50px;
+    padding: 20px 100px 0 100px;
     font-size: 15px;
     text-align: center;
 }
@@ -580,13 +580,16 @@ textarea{
     }  
     .row {
         width: 325px;
+        margin: auto;
     }
   }
 
   @media (max-width: 500px) {
     .who-we-are .paragraph p{
         padding: 20px 50px 0 50px;
-        font-size: 15px;
+    }
+    .what-is-nsbm .paragraph p{
+        padding: 20px 50px 0 50px;
     }
   }
 
@@ -603,5 +606,11 @@ textarea{
 @media (max-width: 450px) {
     html {
       font-size: 50%;
+    }
+}
+
+@media (max-width: 450px) {
+    .contact-container {
+        padding: 10px 20px 20px 50px;
     }
 }
