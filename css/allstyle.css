@@ -228,7 +228,7 @@ section {
 .banner-area {
     height: 60vh;
     width: 100%;
-    background: url(../images/nsbm1.jpg) no-repeat;
+    background: linear-gradient(#ffffff00, #000000a0),url(../images/nsbm1.jpg) no-repeat;
     /* background-color: #eee; */
     background-attachment: fixed;
     background-position: center center;
