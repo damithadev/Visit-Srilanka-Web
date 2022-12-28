@@ -243,7 +243,7 @@ section {
 }
 
 .who-we-are .title h1{
-    padding: 100px 0 0 100px;
+    padding: 100px 0 0 0;
     font-weight: 700;
     font-size: 30px;
 }
@@ -256,13 +256,13 @@ section {
 
 
 .what-is-nsbm .title h1{
-    padding: 100px 0 0 100px;
+    padding: 100px 0 0 0;
     font-weight: 700;
     font-size: 30px;
 }
 
 .what-is-nsbm .paragraph p{
-    padding: 20px 100px 0 100px;
+    padding: 20px 50px 0 50px;
     font-size: 15px;
     text-align: center;
 }
@@ -578,9 +578,16 @@ textarea{
         width:40px;
         height:40px;
     }  
-     
+    .row {
+        width: 325px;
+    }
+  }
 
-
+  @media (max-width: 500px) {
+    .who-we-are .paragraph p{
+        padding: 20px 50px 0 50px;
+        font-size: 15px;
+    }
   }
 
   @media (max-width: 500px)  {
