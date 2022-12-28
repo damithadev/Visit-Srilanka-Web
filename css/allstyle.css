@@ -584,7 +584,7 @@ textarea{
     }
   }
 
-  @media (max-width: 500px) {
+  @media (max-width: 650px) {
     .who-we-are .paragraph p{
         padding: 20px 50px 0 50px;
     }
@@ -593,7 +593,7 @@ textarea{
     }
   }
 
-  @media (max-width: 650px)  {
+  @media (max-width: 500px)  {
     .contact-container {
         width: 100%;
         padding: 10px 50px 50px 50px;
