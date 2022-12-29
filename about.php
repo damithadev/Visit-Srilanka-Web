@@ -10,9 +10,28 @@
 
   gtag('config', 'G-S79Y2FRX1H');
   </script>
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	 <!-- Meta Tags Start ------------------------------------------------------>
+	 <meta http-equiv='content-language' content='en-US'>
+    <meta name="title" content="About Us - Visit Sri Lanka">
+    <meta name="description" content="Sri Lanka is an island nation located in the Indian Ocean, just off the southeastern coast of India.">
+    <meta name="keywords" content="">
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://visitsrilanka.live/about.php">
+    <meta property="og:title" content="About Us - Visit Sri Lanka">
+    <meta property="og:description" content="Sri Lanka is an island nation located in the Indian Ocean, just off the southeastern coast of India.">
+    <meta property="og:image" content="/images/preview.webp">
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://visitsrilanka.live/about.php">
+    <meta property="twitter:title" content="About Us - Visit Sri Lanka">
+    <meta property="twitter:description" content="Sri Lanka is an island nation located in the Indian Ocean, just off the southeastern coast of India.">
+    <meta property="twitter:image" content="/images/preview.webp">
+    <!-------------------------------------------------------- Meta Tags End -->
     <title>About Us</title>
 
     <!-- font awesome cdn link  -->
