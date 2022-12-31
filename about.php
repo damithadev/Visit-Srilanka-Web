@@ -98,7 +98,10 @@
             <h1>Who We Are?</h1>
         </div>
         <div class="paragraph">
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum maxime ab quibusdam earum distinctio? Itaque tenetur sint minima hic? Sapiente fuga beatae similique doloribus voluptates dolore, consequatur voluptas exercitationem temporibus tempore eligendi mollitia sit iusto tenetur facilis, obcaecati quasi aliquid vero totam! Itaque laudantium, deleniti odit consequuntur unde, fuga, doloremque cupiditate hic officiis dolor fugiat? Qui, officiis! Veritatis blanditiis molestiae inventore ipsa quos in expedita nam, ab explicabo neque magnam nemo ducimus illo aliquam, earum architecto nesciunt commodi dicta est ipsum porro quaerat. Porro nostrum assumenda placeat repellat! Est iste unde obcaecati sequi. Cupiditate atque ex fugit, ut omnis magnam!</p>
+            <p>visitsrilanka.live is your go-to resource for planning a trip to Sri Lanka in 2023 which is a product of a group of undergraduate students in NSBM Green University under the web application development module. <br>Our website features a wide range of information on the top attractions, adventure activities, upcoming events, a blog of popular tourist destinations, and traditional products such as masks, spices, arts, foods, industrial goods... etc. 
+
+
+             Whether you're looking to relax on beautiful beaches, explore ancient temples, or discover the local cuisine, visitsrilanka.live has you covered. We can't wait to help you plan an unforgettable trip to Sri Lanka.</p>
         </div>
     </div>
     
@@ -107,7 +110,7 @@
             <h1>What is NSBM?</h1>
         </div>
         <div class="paragraph">
-            <p>NSBM Green University, the nation’s premier degree-awarding institute, is the first of its kind in South Asia. It is a government-owned self-financed institute that operates under the purview of the Ministry of Education. As a leading educational centre in the country, NSBM has evolved into becoming a highly responsible higher education institute that offers unique opportunities and holistic education on par with international standards while promoting sustainable living. <br>
+            <p> <a href="https://www.nsbm.ac.lk/"><b> NSBM Green University</b></a>, the nation’s premier degree-awarding institute, is the first of its kind in South Asia. It is a government-owned self-financed institute that operates under the purview of the Ministry of Education. As a leading educational centre in the country, NSBM has evolved into becoming a highly responsible higher education institute that offers unique opportunities and holistic education on par with international standards while promoting sustainable living. <br>
                 NSBM offers a plethora of undergraduate and postgraduate degree programmes under five faculties: Business, Computing, Engineering, Science and Postgraduate & Professional Advancement. These study programmes at NSBM are either its own programmes recognised by the University Grants Commission and the Ministry of Higher Education or world-class international programmes conducted in affiliation with top-ranked foreign universities such as University of Plymouth, UK, and Victoria University, Australia. <br>
                 Focused on producing competent professionals and innovative entrepreneurs for the increasingly globalising world, NSBM nurtures its graduates to become productive citizens of society with their specialisation ranging in study fields such as Business, Management, Computing, IT, Engineering, Science, Psychology, Nursing, Interior design, Quantity Surveying, Law and Multimedia. <br>
                 Inspired by the vision of being Sri Lanka’s best-performing graduate school and being recognised internationally, NSBM currently achieves approximately 3000 new enrollments per year and houses above 11,000 students reading over 50 degree programmes under 4 faculties. Moreover, over the years, NSBM Green University has gifted the nation with 14,000+ graduates and has proved its global presence with an alumni network spread all across the world. <br>
@@ -161,7 +164,7 @@
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Binath Laknaka</h3>
-							<p class="text-muted">Front-End Developer</p>
+							<p class="text-muted">Lorem ipsum dolo</p>
 							<p class="text-muted pt-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum ab eum magni nobis autem dolorum!</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
@@ -184,7 +187,7 @@
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Ishadi Gayathma</h3>
-							<p class="text-muted">Lorem ipsum dolor</p>
+							<p class="text-muted">UI/UX Designer</p>
 							<p class="text-muted pt-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum ab eum magni nobis autem dolorum!</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
@@ -207,7 +210,7 @@
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Kavishka Kavindi</h3>
-							<p class="text-muted">Lorem ipsum dolor</p>
+							<p class="text-muted">UX Designer</p>
 							<p class="text-muted pt-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum ab eum magni nobis autem dolorum!</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
@@ -230,7 +233,7 @@
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Nipuni Himasha</h3>
-							<p class="text-muted">Lorem ipsum dolor</p>
+							<p class="text-muted">Research Analyst</p>
 							<p class="text-muted pt-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum ab eum magni nobis autem dolorum!</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
@@ -253,7 +256,7 @@
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Sandali Geenadi</h3>
-							<p class="text-muted">Lorem ipsum dolor</p>
+							<p class="text-muted">Content Writer</p>
 							<p class="text-muted pt-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum ab eum magni nobis autem dolorum!</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
