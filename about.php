@@ -144,16 +144,16 @@
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Damitha Jayatharaka</h3>
 							<p class="text-muted">Full Stack Developer</p>
-							<p class="text-muted pt-4">"Hello! I'm a beginner-level, Full Stack Developer, With Experience In both Front-End And Back-End."</p>
+							<p class="text-muted pt-4">As a full stack developer, I am skilled in both front-end and back-end development, able to build and maintain complete web applications.</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
-							<a href="#!" class="d-inline-block">
+							<a href="mailto:hellodamitha@gmail.com" target="_blank" class="d-inline-block">
 								<img src="/images/email.png" alt="Email">
 							</a>
-							<a href="#!" class="d-inline-block">
+							<a href="https://github.com/djayatharaka" target="_blank" class="d-inline-block">
 								<img src="/images/github.png" alt="Github">
 							</a>
-							<a href="#!" class="d-inline-block">
+							<a href="https://lk.linkedin.com/in/damithajayatharaka" target="_blank" class="d-inline-block">
 								<img src="/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
@@ -168,7 +168,7 @@
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Binath Laknaka</h3>
 							<p class="text-muted">Front-end Developer</p>
-							<p class="text-muted pt-4">I'm a undergraduate software engineer specializing in the design and implementation of user-friendly web interfaces.</p>
+							<p class="text-muted pt-4">"As a front-end developer, I specialize in the design and implementation of user-friendly web interfaces.</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
