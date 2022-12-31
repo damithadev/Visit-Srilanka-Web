@@ -167,8 +167,8 @@
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Binath Laknaka</h3>
-							<p class="text-muted">Lorem ipsum dolo</p>
-							<p class="text-muted pt-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum ab eum magni nobis autem dolorum!</p>
+							<p class="text-muted">Front-end Developer</p>
+							<p class="text-muted pt-4">I'm a undergraduate software engineer specializing in the design and implementation of user-friendly web interfaces.</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
@@ -191,7 +191,7 @@
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Ishadi Gayathma</h3>
 							<p class="text-muted">UI/UX Designer</p>
-							<p class="text-muted pt-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum ab eum magni nobis autem dolorum!</p>
+							<p class="text-muted pt-4">As a UI/UX designer, I am skilled in user research, prototyping, and design, and use these skills to craft effective interfaces for websites.</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
@@ -214,7 +214,7 @@
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Kavishka Kavindi</h3>
 							<p class="text-muted">UX Designer</p>
-							<p class="text-muted pt-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum ab eum magni nobis autem dolorum!</p>
+							<p class="text-muted pt-4">As a UX designer, I focus on crafting intuitive and user-centered digital experiences. </p>
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
@@ -237,7 +237,7 @@
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Nipuni Himasha</h3>
 							<p class="text-muted">Research Analyst</p>
-							<p class="text-muted pt-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum ab eum magni nobis autem dolorum!</p>
+							<p class="text-muted pt-4">As a researcher, I am skilled in gathering and analyzing data to inform the design and development of digital products</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
@@ -260,7 +260,7 @@
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Sandali Geenadi</h3>
 							<p class="text-muted">Research Analyst</p>
-							<p class="text-muted pt-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum ab eum magni nobis autem dolorum!</p>
+							<p class="text-muted pt-4">As a researcher, I am skilled in gathering and analyzing data to inform the design and development of digital products</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
