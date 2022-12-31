@@ -147,7 +147,7 @@
 							<p class="text-muted pt-4">As a full stack developer, I am skilled in both front-end and back-end development, able to build and maintain complete web applications.</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
-							<a href="mailto:hellodamitha@gmail.com" target="_blank" class="d-inline-block">
+							<a href="mailto:hellodamitha@gmail.com" class="d-inline-block">
 								<img src="/images/email.png" alt="Email">
 							</a>
 							<a href="https://github.com/djayatharaka" target="_blank" class="d-inline-block">
@@ -177,7 +177,7 @@
 							<a href="#!" class="d-inline-block">
 								<img src="/images/github.png" alt="Github">
 							</a>
-							<a href="#!" class="d-inline-block">
+							<a href="https://www.linkedin.com/in/binath-laknaka-kalansooriya-0b8247244/" target="_blank" class="d-inline-block">
 								<img src="/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
@@ -194,13 +194,13 @@
 							<p class="text-muted pt-4">As a UI/UX designer, I am skilled in user research, prototyping, and design, and use these skills to craft effective interfaces for websites.</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
-							<a href="#!" class="d-inline-block">
+							<a href="mailto:igayathma2001@gmail.com" class="d-inline-block">
 								<img src="/images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
 								<img src="/images/github.png" alt="Github">
 							</a>
-							<a href="#!" class="d-inline-block">
+							<a href="https://www.linkedin.com/in/ishadi-gayathma-809732258/" target="_blank" class="d-inline-block">
 								<img src="/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
@@ -217,13 +217,13 @@
 							<p class="text-muted pt-4">As a UX designer, I focus on crafting intuitive and user-centered digital experiences. </p>
 						</div>
 						<div class="profile-card_social text-center p-4">
-							<a href="#!" class="d-inline-block">
+							<a href="mailto:kavindiperera816@gmail.com" class="d-inline-block">
 								<img src="/images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
 								<img src="/images/github.png" alt="Github">
 							</a>
-							<a href="#!" class="d-inline-block">
+							<a href="https://www.linkedin.com/in/kavishka-kavindi-perera-64163725b/" target="_blank" class="d-inline-block">
 								<img src="/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
@@ -240,13 +240,13 @@
 							<p class="text-muted pt-4">As a researcher, I am skilled in gathering and analyzing data to inform the design and development of digital products</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
-							<a href="#!" class="d-inline-block">
+							<a href="mailto:nipuniimasha5@gmail.com" class="d-inline-block">
 								<img src="/images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
 								<img src="/images/github.png" alt="Github">
 							</a>
-							<a href="#!" class="d-inline-block">
+							<a href="https://www.linkedin.com/in/nipuni-jayawardane-49263625b/" target="_blank" class="d-inline-block">
 								<img src="/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
@@ -263,13 +263,13 @@
 							<p class="text-muted pt-4">As a researcher, I am skilled in gathering and analyzing data to inform the design and development of digital products</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
-							<a href="#!" class="d-inline-block">
+							<a href="mailto:absgsadewmini@gmail.com" class="d-inline-block">
 								<img src="/images/email.png" alt="Email">
 							</a>
 							<a href="#!" class="d-inline-block">
 								<img src="/images/github.png" alt="Github">
 							</a>
-							<a href="#!" class="d-inline-block">
+							<a href="https://www.linkedin.com/in/sandali-geenadi-85962325b/" target="_blank" class="d-inline-block">
 								<img src="/images/linkedin.png" alt="Linkedin">
 							</a>
 						</div>
