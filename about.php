@@ -256,7 +256,7 @@
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Sandali Geenadi</h3>
-							<p class="text-muted">Content Writer</p>
+							<p class="text-muted">Research Analyst</p>
 							<p class="text-muted pt-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum ab eum magni nobis autem dolorum!</p>
 						</div>
 						<div class="profile-card_social text-center p-4">

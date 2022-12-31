@@ -31,16 +31,22 @@
      <meta property="twitter:description" content="Sri Lanka is an island nation located in the Indian Ocean, just off the southeastern coast of India.">
      <meta property="twitter:image" content="/images/preview.webp">
      <!-------------------------------------------------------- Meta Tags End -->
-    <title>Document</title>
+    <title>Blog</title>
       <!-- font awesome cdn link  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"> 
     
+    <!-- blog font link -->
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css'>
+     
+    <!-- bootstrap cdn link -->
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css'>  
+    
     <!-- custom css file link  -->
-     <link rel="stylesheet" href="css/style.css">
+     <link rel="stylesheet" href="css/blog.css">
 
 </head>
 <body>
-    
+  <div id="top"></div>
 <!-- header section starts  -->
 
 <header class="header">
@@ -49,25 +55,243 @@
 
     <nav class="navbar">
         <div id="nav-close" class="fas fa-times"></div>
-        <a href="#home">home</a>
-        <a href="#adventure">Adventure</a>
-        <a href="#map">map</a>
+        <a href="index.html">home</a>
+        <a href="adventure.html">Adventure</a>
+        <a href="map.html">map</a>
+        <a href="blogs.html">blogs</a>
         <a href="events.html">Events</a>
-        <a href="#blogs">blogs</a>
+        <a href="products.html">Products</a>
         <a href="about.php">about</a>
         
     </nav>
 
     <div class="icons">
-        <div id="menu-btn" class="fas fa-bars"></div>
-        <a href="#" class="fas fa-shopping-cart"></a>
-        <div id="search-btn" class="fas fa-search"></div>
-    </div>
+      <div id="menu-btn" class="fas fa-bars"></div>
+      <!-- <a href="#" class="fas fa-shopping-cart"></a> -->
+      <div id="search-btn" class="fas fa-search"></div>
+  </div>
 
 </header>
 
 <!-- header section ends -->
 
   
+<!-- search form start -->
+
+<div class="search-form">
+
+  <div id="close-search" class="fas fa-times"></div>
+
+  <form action="">
+      <input type="search" name="" placeholder="search here..." id="search-box">
+      <label for="search-box" class="fas fa-search"></label>
+  </form>
+</div>
+<!-- search form ends-->
+
+
+
+<!-- ---------------------------banner -->
+<div class="banner-area"></div>
+
 
   
+
+<!-- ------------------blog html start--------------------------------------------- -->
+
+
+
+<section class="light">
+	<div class="container py-2">
+		<div class="h1 text-center text-dark pb-4 " id="pageHeaderTitle">Welcome To Our Blog</div>
+
+		<article class="postcard light blue" id="lotus">
+			<a class="postcard__img_link" href="#">
+				<img class="postcard__img" src="images/lotustower.jpg" alt="Image Title" />
+			</a>
+			<div class="postcard__text t-dark" style="padding-right: 40px;">
+				<h1 class="postcard__title blue"><a href="#">Lotus Tower</a></h1>
+				<div class="postcard__subtitle small">
+					<time datetime="2022-12-25 12:00:00">
+						<i class="fas fa-calendar-alt mr-2"></i>Sun, December 25th 2022
+					</time>
+				</div>
+				<div class="postcard__bar"></div>
+				<div class="postcard__preview-txt">Lotus Tower also referred to as Colombo Lotus Tower, is a 350 m (1,150 ft) tall tower, located in Colombo, Sri Lanka.It has been called a symbolic landmark of Sri Lanka.As of 2019, the tower is the tallest self-supported structure in South Asia; the second tallest structure in South Asia after the guy-wire-supported INS Kattabomman in India; the 11th tallest tower in Asia and the 19th tallest tower in the world.The lotus-shaped tower is used for communication, observation and other leisure facilities.</div>
+				<ul class="postcard__tagbox">
+					<li class="tag__item"><i class="fa fa-compass" aria-hidden="true"></i>  Direction</li>
+					<!-- <li class="tag__item"><i class="fas fa-clock mr-2"></i>55 mins.</li>
+					<li class="tag__item play blue">
+						<a href="#"><i class="fas fa-play mr-2"></i>Play Episode</a> -->
+					</li>
+				</ul>
+			</div>
+		</article>
+
+
+		<article class="postcard light red" id="museum">
+			<a class="postcard__img_link" href="#">
+				<img class="postcard__img" src="images/musium.jpg" alt="Image Title" />	
+			</a>
+			<div class="postcard__text t-dark" style="padding-left: 45px;">
+				<h1 class="postcard__title red"><a href="#">Colombo National Museum</a></h1>
+				<div class="postcard__subtitle small">
+					<time datetime="2020-05-25 12:00:00">
+						<i class="fas fa-calendar-alt mr-2"></i>Sun, May 25th 2022
+					</time>
+				</div>
+				<div class="postcard__bar"></div>
+				<div class="postcard__preview-txt">The Colombo Museum as it was called at the beginning was established on 1st January 1877. It founder was Sir William Henry Gregory, the British Governor of Ceylon (Sri Lanka) at the time. <br>
+
+          The Royal Asiatic Society (CB) was instrumental in bringing to the notice of Gregory on his appointment as Governor in 1872 the need for a public museum with much difficulty the approval of the legislative council was obtained within a year. The Architect of the Public Works Department, J.G. Smither was able to prepare the plans for new structure on Italian architectural style. The construction was completed in 1876 and the Museum commenced it functions in the following year. <br>
+          <br>
+          The Authorities of the museum took various steps to display the cultural and natural heritage of the country for this purpose.
+         </div>
+				<ul class="postcard__tagbox">
+					<li class="tag__item"><i class="fa fa-compass" aria-hidden="true"></i>  Direction</li>
+					<!-- <li class="tag__item"><i class="fas fa-clock mr-2"></i>55 mins.</li>
+					<li class="tag__item play red">
+						<a href="#"><i class="fas fa-play mr-2"></i>Play Episode</a>
+					</li> -->
+				</ul>
+			</div>
+		</article>
+
+
+		<article class="postcard light green" id="gangarama">
+			<a class="postcard__img_link" href="#">
+				<img class="postcard__img" src="images/gangarama.jpg" alt="Image Title" />
+			</a>
+			<div class="postcard__text t-dark" style="padding-right: 40px;">
+				<h1 class="postcard__title green"><a href="#">Gangaramaya Temple</a></h1>
+				<div class="postcard__subtitle small">
+					<time datetime="2020-05-25 12:00:00">
+						<i class="fas fa-calendar-alt mr-2"></i>Sun, December 25th 2022
+					</time>
+				</div>
+				<div class="postcard__bar"></div>
+				<div class="postcard__preview-txt">Gangaramaya Temple is one of the most well-known Buddhist temples in Colombo. It's exceptionally beautiful with the Beira Lake on one side and statues & carvings paving the way inside. The main sanctuary has a huge Buddha statue. <br>
+          The temple's architecture demonstrates an eclectic mix of Sri Lankan, Thai, Indian, and Chinese architecture.
+
+          This Buddhist temple includes several imposing buildings and is situated not far from the placid waters of Beira Lake on a plot of land that was originally a small hermitage on a piece of marshy land. It has the main features of a Vihara (temple), the Cetiya (Pagada) the Bodhitree, the Vihara Mandiraya, the Seema malaka (assembly hall for monks) and the Relic Chamber. In addition, a museum, a library, a residential hall, a three storeyed Pirivena, educational halls and an alms hall are also on the premises.
+          
+          Most notable for tourists is the architecture of Seema Malaka, which was built with donations from a Muslim sponsor to the design of Geoffrey Bawa.</div>
+				<ul class="postcard__tagbox">
+					<li class="tag__item"><i class="fa fa-compass" aria-hidden="true"></i>  Direction</li>
+					<!-- <li class="tag__item"><i class="fas fa-clock mr-2"></i>55 mins.</li>
+					<li class="tag__item play green">
+						<a href="#"><i class="fas fa-play mr-2"></i>Play Episode</a>
+					</li> -->
+				</ul>
+			</div>
+		</article>
+
+
+		<article class="postcard light yellow" id="square">
+			<a class="postcard__img_link" href="#">
+				<img class="postcard__img" src="images/independance.webp" alt="Image Title" />
+			</a>
+			<div class="postcard__text t-dark" style="padding-left: 50px;">
+				<h1 class="postcard__title yellow"><a href="#">Independence Square</a></h1>
+				<div class="postcard__subtitle small">
+					<time datetime="2020-05-25 12:00:00">
+						<i class="fas fa-calendar-alt mr-2"></i>Sun, December 25th 2022
+					</time>
+				</div>
+				<div class="postcard__bar"></div>
+				<div class="postcard__preview-txt">Independence Memorial Hall (also known as Independence Commemoration Hall) is a national monument in Sri Lanka built for commemoration of the independence of Sri Lanka from the British rule with the restoration of full governing responsibility[2] to a Ceylonese-elected legislature on 4 February 1948. It is located in Independence Square (formerly Torrington Square) in the Cinnamon Gardens, Colombo. It also houses the Independence Memorial Museum. <br>
+
+          The monument was built at the location where the formal ceremony marking the start of self-rule, with the opening of the first parliament by Prince Henry, Duke of Gloucester occurred at a special podium on 4 February 1948. <br>
+          
+          Located at the head of the monument is the statue of the first prime minister of the country Rt. Hon. Don Stephen Senanayake "The Father of the Nation". Most of the annual National Independence Day celebrations have been held here.</div>
+				<ul class="postcard__tagbox">
+					<li class="tag__item"><i class="fa fa-compass" aria-hidden="true"></i>  Direction</li>
+					<!-- <li class="tag__item"><i class="fas fa-clock mr-2"></i>55 mins.</li>
+					<li class="tag__item play yellow">
+						<a href="#"><i class="fas fa-play mr-2"></i>Play Episode</a>
+					</li> -->
+				</ul>
+			</div>
+		</article>
+
+
+	</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="#top" class="to-top">
+  <i class="fas fa-chevron-up"></i>
+</a>
+
+<!-- custom js file link  -->
+<script src="js/allscript.js"></script>
+
+
+
+
+
+</body>
+</html>
