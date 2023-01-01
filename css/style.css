@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;1,100;1,300&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Quicksand:400,500,700&subset=latin-ext");
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 * {
   font-family: 'Poppins', sans-serif;
   margin: 0;
@@ -50,7 +52,7 @@ section {
   font-size: 1.7rem;
   padding: 1rem 3rem;
   /* filter: blur(1px); */
-  background: rgba(115, 94, 94, 0.607);
+  background: rgba(121, 161, 152, 0.447);
 }
 
 .hbtn:hover {
@@ -273,16 +275,18 @@ section {
 }
 
 .home .box .content span {
-  font-size: 4rem;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 60px;
   color: #10221b;
 }
 
 .home .box .content h3 {
-  font-size: 6rem;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 10rem;
   /* color: #219150; */
   color: white;
   padding-top: .5rem;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .home .box .content p {
