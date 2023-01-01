@@ -310,7 +310,17 @@ section {
 
 
 
-
+@media (max-width: 560px) {
+    .container img {
+       width: 80vw;
+       margin-bottom: 30px;
+     } 
+     .container h5 {
+        font-size: 30px;
+     }
+}   .container p {
+    margin-bottom: 30px;
+}
 
 
 

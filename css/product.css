@@ -598,8 +598,69 @@ section {
 
 @media (max-width: 560px) {
  .container img {
-    width: 100vw;
+    width: 80vw;
   } 
-  
-  
+  .tabs__toggle {
+    margin: 0;
+    padding: 7px 7px;
+    border-radius: 15px;
   }
+  .tabs__head {
+    padding: 10px 20px;
+  }
+  }
+
+
+
+  
+
+
+
+/*-------------------- horizontal navbar css */
+
+
+
+/* 
+@media (max-width: 599px) {
+    ::-webkit-scrollbar {
+      width: 1px;
+      height: 1px;
+    }
+    
+    ::-webkit-scrollbar-button {
+      width: 1px;
+      height: 1px;
+    }
+    
+    body {
+      background: #111;
+    }
+    
+    div {
+      box-sizing: border-box;
+    }
+    
+    .horizontal-scroll-wrapper {
+      position: absolute;
+      display: block;
+      top: 0;
+      left: 0;
+      width: calc(250px + 1px);
+      max-height: 750px;
+      margin: 0;
+      padding-top: 1px;
+      background: #abc;
+      overflow-y: auto;
+      overflow-x: hidden;
+      transform: rotate(-90deg) translateY(-250px);
+      transform-origin: right top;
+    }
+    .horizontal-scroll-wrapper > div {
+      display: block;
+      padding: 5px;
+      background: #cab;
+      transform: rotate(90deg);
+      transform-origin: right top;
+    }
+
+  }  */
