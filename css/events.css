@@ -313,6 +313,7 @@ section {
 @media (max-width: 560px) {
     .container img {
        width: 80vw;
+       height: 400px;
        margin-bottom: 30px;
      } 
      .container h5 {
