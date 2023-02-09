@@ -167,7 +167,7 @@
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Binath Laknaka</h3>
-							<p class="text-muted">Front-end Developer</p>
+							<p class="text-muted">Back-end Developer</p>
 							<p class="text-muted pt-4">"As a front-end developer, I specialize in the design and implementation of user-friendly web interfaces.</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
@@ -236,7 +236,7 @@
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Nipuni Himasha</h3>
-							<p class="text-muted">Research Analyst</p>
+							<p class="text-muted">Marketing Analyst</p>
 							<p class="text-muted pt-4">As a researcher, I am skilled in gathering and analyzing data to inform the design and development of digital products</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
