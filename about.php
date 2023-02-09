@@ -168,7 +168,7 @@
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Binath Laknaka</h3>
 							<p class="text-muted">Back-end Developer</p>
-							<p class="text-muted pt-4">"As a front-end developer, I specialize in the design and implementation of user-friendly web interfaces.</p>
+							<p class="text-muted pt-4">As a Back-end Developer, I specialize in the design and implementation of efficient, scalable, and secure server-side systems for web applications.</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="#!" class="d-inline-block">
