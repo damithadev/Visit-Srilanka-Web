@@ -236,8 +236,8 @@
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Nipuni Himasha</h3>
-							<p class="text-muted">Marketing Analyst</p>
-							<p class="text-muted pt-4">As a researcher, I am skilled in gathering and analyzing data to inform the design and development of digital products</p>
+							<p class="text-muted">Digital Marketing Analyst</p>
+							<p class="text-muted pt-4">As a Digital Marketing Analyst, I'm responsible for planning, executing, and managing this project's social media presence across multiple platforms.</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="mailto:nipuniimasha5@gmail.com" class="d-inline-block">
