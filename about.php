@@ -213,7 +213,7 @@
 						</div>
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Kavishka Kavindi</h3>
-							<p class="text-muted">UX Designer</p>
+							<p class="text-muted">UI Designer</p>
 							<p class="text-muted pt-4">As a UX designer, I focus on crafting intuitive and user-centered digital experiences. </p>
 						</div>
 						<div class="profile-card_social text-center p-4">
