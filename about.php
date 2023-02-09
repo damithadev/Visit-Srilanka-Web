@@ -214,7 +214,7 @@
 						<div class="profile-card_details">
 							<h3 class="mb-2 mt-3">Kavishka Kavindi</h3>
 							<p class="text-muted">UI Designer</p>
-							<p class="text-muted pt-4">As a UX designer, I focus on crafting intuitive and user-centered digital experiences. </p>
+							<p class="text-muted pt-4">As a UI Designer, I specialize in the design and creation of intuitive, visually appealing, and user-centered interfaces for web and mobile applications.</p>
 						</div>
 						<div class="profile-card_social text-center p-4">
 							<a href="mailto:kavindiperera816@gmail.com" class="d-inline-block">
