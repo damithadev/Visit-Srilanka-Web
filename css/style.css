@@ -157,6 +157,9 @@ section {
   display: none;
 }
 
+
+
+
 .search-form {
   position: fixed;
   top: 0;
@@ -272,6 +275,25 @@ section {
 
 .home .box .content {
   width: 50rem;
+}
+
+.login-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #5c8dc2;
+  color: #fff;
+  text-decoration: none;
+  border: 50px;
+  cursor: pointer;
+ 
+}
+
+
+
+.login-button {
+ 
+  margin-right: 100px ; 
+  font-size: 15px;
 }
 
 .home .box .content span {
