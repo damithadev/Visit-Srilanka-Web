@@ -46,13 +46,13 @@ section {
  /* background: #10221b;
   color: #fff;*/ 
   border-radius: 20px;
-  color: #10221b;
+  color: #cbe7dd;
   cursor: pointer;
   background: none;
   font-size: 1.7rem;
   padding: 1rem 3rem;
   /* filter: blur(1px); */
-  background: rgba(121, 161, 152, 0.447);
+  background: rgba(108, 150, 141, 0.447);
 }
 
 .hbtn:hover {
@@ -105,7 +105,7 @@ section {
 }
 
 .header.active {
-  background: #fff;
+  background: #c9e1c0;
   -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
           box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
 }
@@ -130,13 +130,13 @@ section {
 }
 
 .header .navbar a:hover {
-  color: #219150;
+  color: #5c9b76;
 }
 
 .header .navbar #nav-close {
   font-size: 5rem;
   cursor: pointer;
-  color: #10221b;
+  color: #cae6db;
   display: none;
 }
 
