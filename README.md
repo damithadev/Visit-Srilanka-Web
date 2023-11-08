@@ -21,13 +21,14 @@ Our Website Features A Wide Range Of Information On The Top Attractions, Adventu
 
 
 <br/>
-UI Design
+<h2>UI Design</h2>
 <br>
-<h2>Home Page</h2>
+<h4>Home Page</h4>
 <br>
 
 ![visitsrilanka live_](https://github.com/damithadev/Visit-Srilanka-Web/assets/104585591/84e2eaf0-1f6c-4e8d-abd7-9d7c45da7674)
 <br>
-<h2>Map Page</h2>
+<h4>Map Page</h4>
 <br>
+
 ![visitsrilanka live_map](https://github.com/damithadev/Visit-Srilanka-Web/assets/104585591/839b577a-8a26-46f1-bbd9-6178448efa1c)
