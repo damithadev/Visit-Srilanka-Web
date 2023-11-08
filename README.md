@@ -7,6 +7,7 @@
 ## Table of Contents
 <ol>
     <li><a href="#about">About The Project</a></li>
+    <li><a href="#ui">UI Design</a></li>
  </ol>
 
 <br/>
@@ -21,14 +22,34 @@ Our Website Features A Wide Range Of Information On The Top Attractions, Adventu
 
 
 <br/>
-<h2>UI Design</h2>
+<a name="ui"></a>
+<h2>UI Design For The Project</h2>
 <br>
 <h4>Home Page</h4>
 <br>
 
-![visitsrilanka live_](https://github.com/damithadev/Visit-Srilanka-Web/assets/104585591/84e2eaf0-1f6c-4e8d-abd7-9d7c45da7674)
+![Frame 8](https://github.com/damithadev/Visit-Srilanka-Web/assets/104585591/0cf731a1-3d69-48b4-9813-441de41bc9b5)
+
 <br>
-<h4>Map Page</h4>
+<h4>Tourisam Map of Sri Lanka</h4>
 <br>
 
 ![visitsrilanka live_map](https://github.com/damithadev/Visit-Srilanka-Web/assets/104585591/839b577a-8a26-46f1-bbd9-6178448efa1c)
+
+<br>
+<h4>Travel Blog</h4>
+<br>
+
+![Frame 4 (3)](https://github.com/damithadev/Visit-Srilanka-Web/assets/104585591/a59643c3-6e3b-4c82-8fb7-8c6746c062e1)
+
+<br>
+<h4>Traditional Events </h4>
+<br>
+
+![Frame 5 (1)](https://github.com/damithadev/Visit-Srilanka-Web/assets/104585591/ebe76adc-460f-4ad7-884f-14a8a9eb4652)
+
+<br>
+<h4>Traditional Products </h4>
+<br>
+
+![Frame 6](https://github.com/damithadev/Visit-Srilanka-Web/assets/104585591/56ca28c3-3e13-43cf-a36e-f169993cb552)
