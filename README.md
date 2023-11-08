@@ -21,5 +21,8 @@ Our Website Features A Wide Range Of Information On The Top Attractions, Adventu
 
 
 <br/>
+UI Design
+<br>
+<br>
 
-
+![visitsrilanka live_](https://github.com/damithadev/Visit-Srilanka-Web/assets/104585591/84e2eaf0-1f6c-4e8d-abd7-9d7c45da7674)
